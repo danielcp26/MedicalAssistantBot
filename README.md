@@ -2,9 +2,13 @@ This project implements a medical assistant chatbot powered by a Retrieval-Augme
 
 
 Data ingestion and preprocessing
+
 Embedding generation with a vector database
+
 Document retrieval pipeline
+
 LLM-based response generation
+
 Evaluation for accuracy and reliability
 
 
